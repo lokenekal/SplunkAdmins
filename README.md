@@ -165,6 +165,15 @@ Lookup Watcher generates a log file is created in $SPLUNK_HOME/var/log/splunk/ a
 Feel free to open an issue on github or use the contact author on the SplunkBase link and I will try to get back to you when possible, thanks!
 
 ## Release Notes
+### 2.5.8
+Updated alert:
+`SearchHeadLevel - SHC Captain unable to establish common bundle` to remove special character from comment
+
+New reports:
+`SearchHeadLevel - Dashboards using special characters`
+
+`SearchHeadLevel - SavedSearches using special characters`
+
 ### 2.5.7
 Moved lib directory to bin/lib (as this does not distribute to the indexers otherwise, sent feedback on https://dev.splunk.com/enterprise/docs/python/sdk-python/howtousesplunkpython/howtocreatemodpy/ so this gets updated)
 
