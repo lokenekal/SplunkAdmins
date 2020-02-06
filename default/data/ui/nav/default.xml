@@ -54,6 +54,7 @@
 	<collection label="ClusterMasterLevel">  
 		<collection label="ClusterMaster Endpoint">  
 			<a href="/app/SplunkAdmins/alert?s=%2FservicesNS%2Fnobody%2FSplunkAdmins%2Fsaved%2Fsearches%2FClusterMasterLevel%20-%20Per%20index%20status">Per index status</a>
+			<a href="/app/SplunkAdmins/alert?s=%2FservicesNS%2Fnobody%2FSplunkAdmins%2Fsaved%2Fsearches%2FClusterMasterLevel%20-%20excess%20buckets%20on%20master">Excess buckets on master</a>
 			<saved name="ClusterMasterLevel - Primary bucket count per peer" />
 		</collection>
 		<collection label="Run Anywhere">  

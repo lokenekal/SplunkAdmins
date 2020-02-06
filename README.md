@@ -166,6 +166,9 @@ Feel free to open an issue on github or use the contact author on the SplunkBase
 
 ## Release Notes
 ### 2.5.8
+New alerts:
+`ClusterMasterLevel - excess buckets on master`
+
 Updated alert:
 `SearchHeadLevel - SHC Captain unable to establish common bundle` to remove special character from comment
 
